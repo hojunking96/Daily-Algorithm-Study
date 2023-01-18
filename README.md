@@ -11,7 +11,9 @@ PR리뷰를 통해 서로 의견을 교류하는 스터디입니다.
 
 1. 해당 Repository Fork
 2. 개인 Repository에 commit한 후 PR요청
-3. 매일 22시 이후에 모든 PR Merge (관리자 or 개인)
+4. 매일 22시 이후에 모든 PR Merge (관리자 or 개인)
+
+매일 아침 개인 Repository를 업데이트하고 사용해 주시면 됩니다.
 
 ## 기한 내에 PR을 보내지 못한 경우
 <hr>
