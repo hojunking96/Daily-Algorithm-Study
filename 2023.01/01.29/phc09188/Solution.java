@@ -10,7 +10,7 @@ public class Solution {
         int n = Integer.parseInt(br.readLine());
         for (int i = 0; i < n; i++) {
             String test = br.readLine();
-            if(test.matches(pattern)) sb.append("YSE\n");
+            if(test.matches(pattern)) sb.append("YES\n");
             else sb.append("NO\n");
         }
         System.out.println(sb.toString());
