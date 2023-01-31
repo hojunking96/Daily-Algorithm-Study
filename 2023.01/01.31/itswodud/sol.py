@@ -1,7 +1,6 @@
 def grade(correct_score: int) -> int:
     return 6 if correct_score < 2 else 7-correct_score
-    
-    return result
+
 
 def solution(lottos, win_nums):
     answer = []
