@@ -1,0 +1,14 @@
+https://ssungkang.tistory.com/entry/java%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A1%9C-%EB%B6%80%ED%84%B0-%EA%B0%92-%EC%9E%85%EB%A0%A5%EB%B0%9B%EA%B8%B0-Scanner
+<사용자로 부터 값 입력받기, Scanner>
+
+https://ifuwanna.tistory.com/231
+<자바 배열 선언 및 초기화>
+
+https://computer-science-student.tistory.com/269
+(자바 상수)
+
+https://m.blog.naver.com/iq_up/220013622883
+(static class 특징)
+
+https://velog.io/@cse_pebb/Java-Scanner-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC
+(Scanner 메서드 총정리)
